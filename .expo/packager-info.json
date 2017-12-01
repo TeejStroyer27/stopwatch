@@ -1,8 +1,8 @@
 {
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 3560,
-  "expoServerNgrokUrl": "https://tc-czj.teejstroyer27.stopwatch.exp.direct",
-  "packagerNgrokUrl": "https://packager.tc-czj.teejstroyer27.stopwatch.exp.direct",
-  "ngrokPid": 3572
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
